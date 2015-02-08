@@ -53,6 +53,12 @@ docs/_build/
 # PyBuilder
 target/
 
+# Tilesets and sprites
+*.png
+
+# PyCharm project files
+.idea/
+
 # =========================
 # Operating System Files
 # =========================
